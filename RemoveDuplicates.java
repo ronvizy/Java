@@ -3,7 +3,7 @@
 import java.util.HashMap;
 import java.util.ArrayList;
 
-public class Solution{
+public class RemoveDuplicates{
   public static ArrayList<Integer> RemoveDuplicate(int arr[]){
 		if(arr.length==0)
 			return null;
